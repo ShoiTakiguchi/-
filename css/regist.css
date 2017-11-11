@@ -1,0 +1,16 @@
+table.searchbox{
+
+	width: 500px;
+	height: 300px;
+
+}
+
+.searchbutton{
+
+	margin: 10px auto;
+	background-color: #C0C0C0;
+}
+.button{
+	text-align: center;
+
+}

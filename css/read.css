@@ -1,0 +1,36 @@
+a.mypage{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    color: #67c5ff;
+    border: double 4px #67c5ff;
+    border-radius: 3px;
+    transition: .4s;
+}
+a.mypage:hover {
+    background: #fffbef;
+}
+
+table.order{
+	border-collapse: collapse;
+	text-align: center;
+	border-top: 1px solid #ccc;
+border-left: 3px solid #369;
+}
+table.order th {
+	width: 147px;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	color: #153d73;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+
+}
+table.order td {
+	width: 200px;
+	padding: 10px;
+	vertical-align: top;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
